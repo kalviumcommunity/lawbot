@@ -28,5 +28,3 @@ It combines:
 - [LangChain](https://www.langchain.com/) – for chaining RAG + tools
 - [FAISS](https://github.com/facebookresearch/faiss) – for vector search
 - [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/) – for PDF text extraction
-
----
